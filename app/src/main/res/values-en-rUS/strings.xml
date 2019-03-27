@@ -1,11 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">KalkulatorRep</string>
-
-    <string name="btn_symbol_clear">C</string>
-    <string name="btn_symbol_prefix">+/-</string>
-    <string name="btn_symbol_percentage">%</string>
-    <string name="btn_symbol_decimal_point">,</string>
-
+    <string name="app_name">CalculatorRep</string>
+    <string name="btn_number_one">1</string>
     <string name="btn_number_two">2</string>
     <string name="btn_number_three">3</string>
     <string name="btn_number_four">4</string>
@@ -15,11 +11,13 @@
     <string name="btn_number_eight">8</string>
     <string name="btn_number_nine">9</string>
     <string name="btn_number_zero">0</string>
-
     <string name="btn_operation_division">÷</string>
     <string name="btn_operation_multiplication">×</string>
     <string name="btn_operation_addition">+</string>
     <string name="btn_operation_subtraction">–</string>
     <string name="btn_operation_equals">=</string>
-    <string name="btn_number_one">1</string>
+    <string name="btn_symbol_clear">C</string>
+    <string name="btn_symbol_decimal_point">,</string>
+    <string name="btn_symbol_prefix">+/-</string>
+    <string name="btn_symbol_percentage">%</string>
 </resources>
